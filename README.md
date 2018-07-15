@@ -1,8 +1,10 @@
 # Kubernetes Pixel Art
 ## Kubernetes Logo
-![kubernetes logo 500px](https://github.com/terminatingcode/k8s/blob/master/k8s_logo_500px.png)
+![kubernetes logo 500px](k8s_logo_500px.png)
 ## Kubernetes Pod
-![Pod circle](https://github.com/terminatingcode/k8s/blob/master/pod.png)
-![Pea Pod](https://github.com/terminatingcode/k8s/blob/master/peapod.png)
+![Pod circle](pod.png)
+![Pea Pod](peapod.png)
 ## Container
-![Container 500px](https://github.com/terminatingcode/k8s/blob/master/container_500px.png)
+![Container 500px](container_500px.png)
+## Exploding Container
+![Exploding Container 500px](container_exp_500px.png)
