@@ -15,7 +15,7 @@ Licensed under Creative Commons (Creative Commons Attribution Share Alike 4.0 In
 ## API
 ![API 500px](api_500px.png)![API 250px](api_250px.png)![API 125px](api_125px.png)
 ## Camera Crew
-![Reporter](reporter_96_240px.png)![Cameraman](cameraman_152_240px.png)![Lighting Tech](lighting_tech_176_240px.png)![Boom Mic](boom_mic_240_256px.png)
+![Reporter](reporter_96_240px.png)![Cameraman](cameraman_152_240px.png)![Lighting Tech](lighting_tech_176_240px.png)![Boom Mic](boom_mic_240_256px.png)![Steady Cam](steady_cam_128_240.png)![Reflector](light_reflector_120_240px.png)
 ## Camera Crew Monolith
 ![Monolith Cameraman](cameraman_monolith_216_240px.png)
 ![coupling](coupled_500px.png)
