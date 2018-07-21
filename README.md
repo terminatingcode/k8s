@@ -15,4 +15,4 @@ Licensed under Creative Commons (Creative Commons Attribution Share Alike 4.0 In
 ## API
 ![API 500px](api_500px.png)![API 250px](api_250px.png)![API 125px](api_125px.png)
 ## Camera Crew
-![Reporter](reporter_192_480px.png)![Cameraman](cameraman_304_480px.png)
+![Reporter](reporter_192_480px.png)![Cameraman](cameraman_304_480px.png)![Lighting Tech](lighting_tech_352_480px.png)
