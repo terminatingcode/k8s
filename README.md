@@ -1,4 +1,7 @@
 # Kubernetes Pixel Art
+Open source images related to Kubernetes and related subjects.
+Licensed under Creative Commons (Creative Commons Attribution Share Alike 4.0 International
+)
 ## Kubernetes Logo
 ![kubernetes logo 500px](k8s_logo_500px.png) ![kubernetes logo 250px](k8s_logo_250px.png) ![kubernetes logo 125px](k8s_logo_125px.png)
 ## Container
