@@ -12,8 +12,6 @@ Licensed under Creative Commons (Creative Commons Attribution Share Alike 4.0 In
 ![Exploding Container Red 500px](container_exp_red_500px.png)![Exploding Container Red 250px](container_exp_red_250px.png)![Exploding Container Red 125px](container_exp_red_125px.png)
 ## Spec
 ![Spec 500px](spec_500px.png)![Spec 250px](spec_250px.png)![Spec 125px](spec_125px.png)
-## API
-![API 500px](api_500px.png)![API 250px](api_250px.png)![API 125px](api_125px.png)
 ## Camera Crew
 ![Reporter](reporter_96_240px.png)![Cameraman](cameraman_152_240px.png)![Lighting Tech](lighting_tech_176_240px.png)![Boom Mic](boom_mic_240_256px.png)![Steady Cam](steady_cam_128_240.png)![Reflector](light_reflector_120_240px.png)
 ## Camera Crew Monolith
